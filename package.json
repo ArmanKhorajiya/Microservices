@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ArmanKhorajiya/Microservices/issues"
   },
-  "homepage": "https://github.com/ArmanKhorajiya/Microservices#readme"
+  "homepage": "https://github.com/ArmanKhorajiya/Microservices#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
