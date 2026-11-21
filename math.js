@@ -6,7 +6,7 @@ function sub(a, b) {
   return a - b;
 }
 
-module.export = {
+module.exports = {
   add,
   sub,
 };
